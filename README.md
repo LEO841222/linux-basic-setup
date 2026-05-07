@@ -1,12 +1,22 @@
-# Linux Basic Setup Project
+# Linux Nginx Server
 
-## 📌 What I Did
-- Learned basic Linux commands
-- Installed nginx
-- Created a bash script to automate setup
+## 📌 Project Goal
+Deploy nginx on Linux server.
 
-## 🚀 How to Run
+## 🚀 Features
+- Install nginx
+- Start nginx service
+- Host website locally
+
+## 🧠 Skills
+- Linux
+- nginx
+- systemctl
+- bash scripting
+
+## ▶️ Run
 
 ```bash
 chmod +x setup.sh
 ./setup.sh
+```
